@@ -12,7 +12,7 @@
 ```
 
 # Test Assignment No. 2
-Out of the script you created earlier make a proxy service that looks up a term on DuckDuckGo and returns a JSON array containing up to three top results for the entry.
+Turn the script you created earlier into a proxy service that looks up a term on DuckDuckGo and returns a JSON array containing up to three top results for the entry.
 
 **Expected result**: a publicly availble website that accepts `GET` requests at `/search/duckduckgo/{search term}`.
 
